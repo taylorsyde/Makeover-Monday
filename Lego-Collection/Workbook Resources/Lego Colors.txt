@@ -3,142 +3,142 @@
     <color-palette name="Lego Colors" type="regular">
     <!-- Colors extracted from https://color-term.com/lego-colors/index.html -->
     <!-- with the support of ChatGPT4 -->
-        <color name="Black" value="#05131d" />
-        <color name="Blue" value="#0055bf" />
-        <color name="Green" value="#237841" />
-        <color name="Dark Turquoise" value="#008f9b" />
-        <color name="Red" value="#c91a09" />
-        <color name="Dark Pink" value="#c870a0" />
-        <color name="Brown" value="#583927" />
-        <color name="Light Gray" value="#9ba19d" />
-        <color name="Dark Gray" value="#6d6e5c" />
-        <color name="Light Blue" value="#b4d2e3" />
-        <color name="Bright Green" value="#4b9f4a" />
-        <color name="Light Turquoise" value="#55a5af" />
-        <color name="Salmon" value="#f2705e" />
-        <color name="Pink" value="#fc97ac" />
-        <color name="Yellow" value="#f2cd37" />
-        <color name="White" value="#ffffff" />
-        <color name="Light Green" value="#c2dab8" />
-        <color name="Light Yellow" value="#fbe696" />
-        <color name="Tan" value="#e4cd9e" />
-        <color name="Light Violet" value="#c9cae2" />
-        <color name="Glow In Dark Opaque" value="#d4d5c9" />
-        <color name="Purple" value="#81007b" />
-        <color name="Dark Blue Violet" value="#2032b0" />
-        <color name="Orange" value="#fe8a18" />
-        <color name="Magenta" value="#923978" />
-        <color name="Lime" value="#bbe90b" />
-        <color name="Dark Tan" value="#958a73" />
-        <color name="Bright Pink" value="#e4adc8" />
-        <color name="Medium Lavender" value="#ac78ba" />
-        <color name="Lavender" value="#e1d5ed" />
-        <color name="Trans Black IR Lens" value="#635f52" />
-        <color name="Trans Dark Blue" value="#0020a0" />
-        <color name="Trans Green" value="#84b68d" />
-        <color name="Trans Bright Green" value="#d9e4a7" />
-        <color name="Trans Red" value="#c91a09" />
-        <color name="Trans Black" value="#635f52" />
-        <color name="Trans Light Blue" value="#aeefec" />
-        <color name="Trans Neon Green" value="#f8f184" />
-        <color name="Trans Very Lt Blue" value="#c1dff0" />
-        <color name="Trans Dark Pink" value="#df6695" />
-        <!-- page 2 -->
-        <color name="Trans Yellow" value="#F5CD2F" />
-        <color name="Trans Clear" value="#FCFCFC" />
-        <color name="Trans Purple" value="#A5A5CB" />
-        <color name="Trans Neon Yellow" value="#DAB000" />
-        <color name="Trans Neon Orange" value="#FF800D" />
-        <color name="Chrome Antique Brass" value="#645A4C" />
-        <color name="Chrome Blue" value="#6C96BF" />
-        <color name="Chrome Green" value="#3CB371" />
-        <color name="Chrome Pink" value="#AA4D8E" />
-        <color name="Chrome Black" value="#1B2A34" />
-        <color name="Very Light Orange" value="#F3CF9B" />
-        <color name="Light Purple" value="#CD6298" />
-        <color name="Reddish Brown" value="#582A12" />
-        <color name="Light Bluish Gray" value="#A0A5A9" />
-        <color name="Dark Bluish Gray" value="#6C6E68" />
-        <color name="Medium Blue" value="#5A93DB" />
-        <color name="Medium Green" value="#73DCA1" />
-        <color name="Speckle Black Copper" value="#000000" />
-        <color name="Speckle DBGray Silver" value="#635F61" />
-        <color name="Light Pink" value="#FECCCF" />
-        <color name="Light Flesh" value="#F6D7B3" />
-        <color name="Milky White" value="#FFFFFF" />
-        <color name="Metallic Silver" value="#A5A9B4" />
-        <color name="Metallic Green" value="#899B5F" />
-        <color name="Metallic Gold" value="#DBAC34" />
-        <color name="Medium Dark Flesh" value="#CC702A" />
-        <color name="Dark Purple" value="#3F3691" />
-        <color name="Dark Flesh" value="#7C503A" />
-        <color name="Royal Blue" value="#4C61DB" />
-        <color name="Flesh" value="#D09168" />
-        <color name="Light Salmon" value="#FEBABD" />
-        <color name="Violet" value="#4354A3" />
-        <color name="Blue Violet" value="#6874CA" />
-        <color name="Glitter Trans Dark Pink" value="#DF6695" />
-        <color name="Medium Lime" value="#C7D23C" />
-        <color name="Glitter Trans Clear" value="#FFFFFF" />
-        <color name="Aqua" value="#B3D7D1" />
-        <color name="Light Lime" value="#D9E4A7" />
-        <color name="Light Orange" value="#F9BA61" />
-        <color name="Glitter Trans Purple" value="#A5A5CB" />
-        <!-- page 3 -->
-        <color name="Speckle Black Silver" value="#000000" />
-        <color name="Speckle Black Gold" value="#000000" />
-        <color name="Copper" value="#AE7A59" />
-        <color name="Pearl Light Gray" value="#9CA3A8" />
-        <color name="Metal Blue" value="#7988A1" />
-        <color name="Pearl Light Gold" value="#DCBC81" />
-        <color name="Trans Medium Blue" value="#CFE2F7" />
-        <color name="Pearl Dark Gray" value="#575857" />
-        <color name="Pearl Very Light Gray" value="#ABADAC" />
-        <color name="Very Light Bluish Gray" value="#E6E3E0" />
-        <color name="Yellowish Green" value="#DFEEA5" />
-        <color name="Flat Dark Gold" value="#B48455" />
-        <color name="Flat Silver" value="#898788" />
-        <color name="Trans Orange" value="#F08F1C" />
-        <color name="Pearl White" value="#F2F3F2" />
-        <color name="Bright Light Orange" value="#F8BB3D" />
-        <color name="Bright Light Blue" value="#9FC3E9" />
-        <color name="Rust" value="#B31004" />
-        <color name="Bright Light Yellow" value="#FFF03A" />
-        <color name="Trans Pink" value="#E4ADC8" />
-        <color name="Sky Blue" value="#7DBFDD" />
-        <color name="Trans Light Purple" value="#96709F" />
-        <color name="Dark Blue" value="#0A3463" />
-        <color name="Dark Green" value="#184632" />
-        <color name="Glow In Dark Trans" value="#BDC6AD" />
-        <color name="Pearl Gold" value="#AA7F2E" />
-        <color name="Dark Brown" value="#352100" />
-        <color name="Maersk Blue" value="#3592C3" />
-        <color name="Dark Red" value="#720E0F" />
-        <color name="Dark Azure" value="#078BC9" />
-        <color name="Medium Azure" value="#36AEBF" />
-        <color name="Light Aqua" value="#ADC3C0" />
-        <color name="Olive Green" value="#9B9A5A" />
-        <color name="Chrome Gold" value="#BBA53D" />
-        <color name="Sand Red" value="#D67572" />
-        <color name="Medium Dark Pink" value="#F785B1" />
-        <color name="Earth Orange" value="#FA9C1C" />
-        <color name="Sand Purple" value="#845E84" />
-        <color name="Sand Green" value="#A0BCAC" />
-        <color name="Sand Blue" value="#6074A1" />
-        <!-- page 4 -->
-        <color name="Chrome Silver" value="#E0E0E0" />
-        <color name="Fabuland Brown" value="#B67B50" />
-        <color name="Medium Orange" value="#FFA70B" />
-        <color name="Dark Orange" value="#A95500" />
-        <color name="Very Light Gray" value="#E6E3DA" />
-        <color name="Glow in Dark White" value="#D9D9D9" />
-        <color name="Medium Violet" value="#9391E4" />
-        <color name="Glitter Trans Neon Green" value="#C0F500" />
-        <color name="Glitter Trans Light Blue" value="#68BCC5" />
-        <color name="Trans Flame Yellowish Orange" value="#FCB76D" />
-        <color name="Trans Fire Yellow" value="#FBE890" />
-        <color name="Trans Light Royal Blue" value="#B4D4F7" />
-        <color name="Reddish Lilac" value="#8E5597" />
+    <color>#05131d</color> <!-- 'Black -->
+    <color>#0055bf</color> <!-- 'Blue -->
+    <color>#237841</color> <!-- 'Green -->
+    <color>#008f9b</color> <!-- 'Dark Turquoise -->
+    <color>#c91a09</color> <!-- 'Red -->
+    <color>#c870a0</color> <!-- 'Dark Pink -->
+    <color>#583927</color> <!-- 'Brown -->
+    <color>#9ba19d</color> <!-- 'Light Gray -->
+    <color>#6d6e5c</color> <!-- 'Dark Gray -->
+    <color>#b4d2e3</color> <!-- 'Light Blue -->
+    <color>#4b9f4a</color> <!-- 'Bright Green -->
+    <color>#55a5af</color> <!-- 'Light Turquoise -->
+    <color>#f2705e</color> <!-- 'Salmon -->
+    <color>#fc97ac</color> <!-- 'Pink -->
+    <color>#f2cd37</color> <!-- 'Yellow -->
+    <color>#ffffff</color> <!-- 'White -->
+    <color>#c2dab8</color> <!-- 'Light Green -->
+    <color>#fbe696</color> <!-- 'Light Yellow -->
+    <color>#e4cd9e</color> <!-- 'Tan -->
+    <color>#c9cae2</color> <!-- 'Light Violet -->
+    <color>#d4d5c9</color> <!-- 'Glow In Dark Opaque -->
+    <color>#81007b</color> <!-- 'Purple -->
+    <color>#2032b0</color> <!-- 'Dark Blue Violet -->
+    <color>#fe8a18</color> <!-- 'Orange -->
+    <color>#923978</color> <!-- 'Magenta -->
+    <color>#bbe90b</color> <!-- 'Lime -->
+    <color>#958a73</color> <!-- 'Dark Tan -->
+    <color>#e4adc8</color> <!-- 'Bright Pink -->
+    <color>#ac78ba</color> <!-- 'Medium Lavender -->
+    <color>#e1d5ed</color> <!-- 'Lavender -->
+    <color>#635f52</color> <!-- 'Trans Black IR Lens -->
+    <color>#0020a0</color> <!-- 'Trans Dark Blue -->
+    <color>#84b68d</color> <!-- 'Trans Green -->
+    <color>#d9e4a7</color> <!-- 'Trans Bright Green -->
+    <color>#c91a09</color> <!-- 'Trans Red -->
+    <color>#635f52</color> <!-- 'Trans Black -->
+    <color>#aeefec</color> <!-- 'Trans Light Blue -->
+    <color>#f8f184</color> <!-- 'Trans Neon Green -->
+    <color>#c1dff0</color> <!-- 'Trans Very Lt Blue -->
+    <color>#df6695</color> <!-- 'Trans Dark Pink -->
+    <!-- page 2 -->
+    <color>#F5CD2F</color> <!-- 'Trans Yellow -->
+    <color>#FCFCFC</color> <!-- 'Trans Clear -->
+    <color>#A5A5CB</color> <!-- 'Trans Purple -->
+    <color>#DAB000</color> <!-- 'Trans Neon Yellow -->
+    <color>#FF800D</color> <!-- 'Trans Neon Orange -->
+    <color>#645A4C</color> <!-- 'Chrome Antique Brass -->
+    <color>#6C96BF</color> <!-- 'Chrome Blue -->
+    <color>#3CB371</color> <!-- 'Chrome Green -->
+    <color>#AA4D8E</color> <!-- 'Chrome Pink -->
+    <color>#1B2A34</color> <!-- 'Chrome Black -->
+    <color>#F3CF9B</color> <!-- 'Very Light Orange -->
+    <color>#CD6298</color> <!-- 'Light Purple -->
+    <color>#582A12</color> <!-- 'Reddish Brown -->
+    <color>#A0A5A9</color> <!-- 'Light Bluish Gray -->
+    <color>#6C6E68</color> <!-- 'Dark Bluish Gray -->
+    <color>#5A93DB</color> <!-- 'Medium Blue -->
+    <color>#73DCA1</color> <!-- 'Medium Green -->
+    <color>#000000</color> <!-- 'Speckle Black Copper -->
+    <color>#635F61</color> <!-- 'Speckle DBGray Silver -->
+    <color>#FECCCF</color> <!-- 'Light Pink -->
+    <color>#F6D7B3</color> <!-- 'Light Flesh -->
+    <color>#FFFFFF</color> <!-- 'Milky White -->
+    <color>#A5A9B4</color> <!-- 'Metallic Silver -->
+    <color>#899B5F</color> <!-- 'Metallic Green -->
+    <color>#DBAC34</color> <!-- 'Metallic Gold -->
+    <color>#CC702A</color> <!-- 'Medium Dark Flesh -->
+    <color>#3F3691</color> <!-- 'Dark Purple -->
+    <color>#7C503A</color> <!-- 'Dark Flesh -->
+    <color>#4C61DB</color> <!-- 'Royal Blue -->
+    <color>#D09168</color> <!-- 'Flesh -->
+    <color>#FEBABD</color> <!-- 'Light Salmon -->
+    <color>#4354A3</color> <!-- 'Violet -->
+    <color>#6874CA</color> <!-- 'Blue Violet -->
+    <color>#DF6695</color> <!-- 'Glitter Trans Dark Pink -->
+    <color>#C7D23C</color> <!-- 'Medium Lime -->
+    <color>#FFFFFF</color> <!-- 'Glitter Trans Clear -->
+    <color>#B3D7D1</color> <!-- 'Aqua -->
+    <color>#D9E4A7</color> <!-- 'Light Lime -->
+    <color>#F9BA61</color> <!-- 'Light Orange -->
+    <color>#A5A5CB</color> <!-- 'Glitter Trans Purple -->
+    <!-- page 3 -->
+    <color>#000000</color> <!-- 'Speckle Black Silver -->
+    <color>#000000</color> <!-- 'Speckle Black Gold -->
+    <color>#AE7A59</color> <!-- 'Copper -->
+    <color>#9CA3A8</color> <!-- 'Pearl Light Gray -->
+    <color>#7988A1</color> <!-- 'Metal Blue -->
+    <color>#DCBC81</color> <!-- 'Pearl Light Gold -->
+    <color>#CFE2F7</color> <!-- 'Trans Medium Blue -->
+    <color>#575857</color> <!-- 'Pearl Dark Gray -->
+    <color>#ABADAC</color> <!-- 'Pearl Very Light Gray -->
+    <color>#E6E3E0</color> <!-- 'Very Light Bluish Gray -->
+    <color>#DFEEA5</color> <!-- 'Yellowish Green -->
+    <color>#B48455</color> <!-- 'Flat Dark Gold -->
+    <color>#898788</color> <!-- 'Flat Silver -->
+    <color>#F08F1C</color> <!-- 'Trans Orange -->
+    <color>#F2F3F2</color> <!-- 'Pearl White -->
+    <color>#F8BB3D</color> <!-- 'Bright Light Orange -->
+    <color>#9FC3E9</color> <!-- 'Bright Light Blue -->
+    <color>#B31004</color> <!-- 'Rust -->
+    <color>#FFF03A</color> <!-- 'Bright Light Yellow -->
+    <color>#E4ADC8</color> <!-- 'Trans Pink -->
+    <color>#7DBFDD</color> <!-- 'Sky Blue -->
+    <color>#96709F</color> <!-- 'Trans Light Purple -->
+    <color>#0A3463</color> <!-- 'Dark Blue -->
+    <color>#184632</color> <!-- 'Dark Green -->
+    <color>#BDC6AD</color> <!-- 'Glow In Dark Trans -->
+    <color>#AA7F2E</color> <!-- 'Pearl Gold -->
+    <color>#352100</color> <!-- 'Dark Brown -->
+    <color>#3592C3</color> <!-- 'Maersk Blue -->
+    <color>#720E0F</color> <!-- 'Dark Red -->
+    <color>#078BC9</color> <!-- 'Dark Azure -->
+    <color>#36AEBF</color> <!-- 'Medium Azure -->
+    <color>#ADC3C0</color> <!-- 'Light Aqua -->
+    <color>#9B9A5A</color> <!-- 'Olive Green -->
+    <color>#BBA53D</color> <!-- 'Chrome Gold -->
+    <color>#D67572</color> <!-- 'Sand Red -->
+    <color>#F785B1</color> <!-- 'Medium Dark Pink -->
+    <color>#FA9C1C</color> <!-- 'Earth Orange -->
+    <color>#845E84</color> <!-- 'Sand Purple -->
+    <color>#A0BCAC</color> <!-- 'Sand Green -->
+    <color>#6074A1</color> <!-- 'Sand Blue -->
+    <!-- page 4 -->
+    <color>#E0E0E0</color> <!-- 'Chrome Silver -->
+    <color>#B67B50</color> <!-- 'Fabuland Brown -->
+    <color>#FFA70B</color> <!-- 'Medium Orange -->
+    <color>#A95500</color> <!-- 'Dark Orange -->
+    <color>#E6E3DA</color> <!-- 'Very Light Gray -->
+    <color>#D9D9D9</color> <!-- 'Glow in Dark White -->
+    <color>#9391E4</color> <!-- 'Medium Violet -->
+    <color>#C0F500</color> <!-- 'Glitter Trans Neon Green -->
+    <color>#68BCC5</color> <!-- 'Glitter Trans Light Blue -->
+    <color>#FCB76D</color> <!-- 'Trans Flame Yellowish Orange -->
+    <color>#FBE890</color> <!-- 'Trans Fire Yellow -->
+    <color>#B4D4F7</color> <!-- 'Trans Light Royal Blue -->
+    <color>#8E5597</color> <!-- 'Reddish Lilac -->
     </color-palette>
 </preferences>
 </workbook>
